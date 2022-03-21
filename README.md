@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre **KPIs, Gerenciamento de Projetos, Excel, Power BI, SQL e Python**
 
-- 📫 Você me acha através do e-mail **eng.felipeabreu@gmail.com**
+- 📫 Você me encontra através do e-mail **eng.felipeabreu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
