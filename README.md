@@ -1,7 +1,7 @@
 <h1 align="center">Oi👋, Eu sou o Felipe Abreu</h1>
 <h3 align="center">Apaixonado por análise e visualização de dados para a geração de insights e tomada de decisões</h3>
 
-- 🔭 Atualmente estou trabalhando como Data Engineer Trainee na  **BlueShiftBrasil**
+- 🔭 Atualmente estou trabalhando como Data Engineer Trainee na  **BlueShift Brasil**
 
 - 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
 
