@@ -1,11 +1,11 @@
 <h1 align="center">Oi👋, Eu sou o Felipe Abreu</h1>
 <h3 align="center">Apaixonado por análise e visualização de dados para a geração de insights e tomada de decisões</h3>
 
-- 🔭 Atualmente estou trabalhando como Data Engineer Trainee na  **BlueShift Brasil**
+- 🔭 Atualmente estou trabalhando como Data Engineer Trainee na  **DB Server**
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e Power BI**
+- 🌱 Atualmente estou aprendendo **Python, SQL e Spark**
 
-- 💬 Me pergunte sobre **KPIs, Gerenciamento de Projetos, Excel, Power BI, SQL e Python**
+- 💬 Me pergunte sobre **KPIs, Gerenciamento de Projetos e Engenharia de Dados**
 
 - 📫 Você me encontra através do e-mail **eng.felipeabreu@gmail.com**
 
