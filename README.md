@@ -1,9 +1,9 @@
 <h1 align="center">Oi👋, Eu sou o Felipe Abreu</h1>
 <h3 align="center">Apaixonado por análise e visualização de dados para a geração de insights e tomada de decisões</h3>
 
-- 🔭 Atualmente estou trabalhando como Data Engineer na  **DB Server**
+- 🔭 Atualmente estou trabalhando como Data Engineer na  **GFT Technologies**
 
-- 🌱 Atualmente estou aprendendo **Python, SQL e Spark**
+- 🌱 Atualmente trabalho com as seguintes tecnologias: **Python, SQL ,Spark e Azure Databricks**
 
 - 💬 Me pergunte sobre **KPIs, Gerenciamento de Projetos e Engenharia de Dados**
 
