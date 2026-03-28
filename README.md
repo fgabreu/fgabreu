@@ -44,15 +44,11 @@
 
 ## 📈 GitHub Stats
 
-
-
-
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fgabreu&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fgabreu&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fgabreu&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 
 
 
