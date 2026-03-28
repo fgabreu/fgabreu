@@ -45,9 +45,9 @@
 
 ## 📈 GitHub Stats
 
-![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=fgabreu&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![Stats de GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=fgabreu&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fgabreu&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Linguagens mais usadas](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=fgabreu&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fgabreu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
