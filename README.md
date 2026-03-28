@@ -58,7 +58,6 @@
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Abreu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/engfabreu/)
-[![Email](https://img.shields.io/badge/Email-eng.felipeabreu%40gmail.com-D14836?style=flat&logo=gmail)](mailto:eng.felipeabreu@gmail.com)
 
 ---
 
