@@ -1,34 +1,49 @@
-<h1 align="center">Oi👋, Eu sou o Felipe Abreu</h1>
-<h3 align="center">Apaixonado por análise e visualização de dados para a geração de insights e tomada de decisões</h3>
+# Hi there 👋 I'm Felipe Abreu
 
-- 🔭 Atualmente estou trabalhando como Data Engineer na  **DB Server**
+### Data Engineer | Databricks Certified | Azure · Spark · Python · SQL
 
-- 🌱 Atualmente trabalho com as seguintes tecnologias: **Python, SQL ,Spark e Azure Databricks**
+> Turning raw data into scalable, reliable pipelines — and now building AI-powered data systems.
 
-- 💬 Me pergunte sobre **KPIs, Gerenciamento de Projetos e Engenharia de Dados**
+---
 
-- 📫 Você me encontra através do e-mail **eng.felipeabreu@gmail.com**
+## 🔧 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/engfabreu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/engfabreu/" height="30" width="40" /></a>
-</p>
+**Data Engineering**
+`Azure Databricks` `Apache Spark` `Azure Data Factory` `Delta Lake` `Python` `SQL` `PySpark` `ETL/ELT`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Cloud & Infra**
+`Microsoft Azure` `Azure Data Lake` `Azure Blob Storage`
 
+**AI & Agents**
+`LLM Integration` `AI Agents` `Claude API` `LangChain`
 
+**Databases**
+`MySQL` `Oracle` `PostgreSQL`
 
-<!---
+---
 
+## 🚀 Featured Projects
 
-- 👋Oi, eu sou o Felipe Abreu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+| Project | Stack | Description |
+|---|---|---|
+| [📊 Data Pipeline Azure — Banco Central](https://github.com/fgabreu/Data-Pipeline---proj-01----Azure) | Azure · Databricks | Big Data pipeline from Brazilian Central Bank API |
+| [🧠 AI Engineer Course](https://github.com/fgabreu/ai-engineer-course) | Python · LLMs | Hands-on AI engineering exercises |
+| [📁 Dados RH — Análise com Python](https://github.com/fgabreu/Projeto-03-DSA----Dados-RH) | Python · Jupyter | HR data analysis and visualisation |
 
-<!---
-fgabreu/fgabreu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📈 GitHub Stats
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fgabreu&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fgabreu&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Abreu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/engfabreu/)
+[![Email](https://img.shields.io/badge/Email-eng.felipeabreu%40gmail.com-D14836?style=flat&logo=gmail)](mailto:eng.felipeabreu@gmail.com)
+
+---
+
+*Open to Data Engineer and Data & AI roles — Remote / Hybrid / Brazil*
