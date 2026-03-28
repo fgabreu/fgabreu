@@ -12,13 +12,13 @@
 `Azure Databricks` `Apache Spark` `Azure Data Factory` `Delta Lake` `Python` `SQL` `PySpark` `ETL/ELT`
 
 **Cloud & Infra**
-`Microsoft Azure` `Azure Data Lake` `Azure Blob Storage`
+`Microsoft Azure` `AWS`  `Azure Data Lake` `Azure Blob Storage` `S3` 
 
 **AI & Agents**
 `LLM Integration` `AI Agents` `Claude API` `LangChain`
 
 **Databases**
-`MySQL` `Oracle` `PostgreSQL`
+`MySQL` `SQL Server` `PostgreSQL`
 
 ---
 
@@ -45,7 +45,10 @@
 
 ## 📈 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/fgabreu?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fgabreu&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Felipe Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fgabreu&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Langs" height="180" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fgabreu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
