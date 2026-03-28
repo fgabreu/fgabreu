@@ -45,12 +45,9 @@
 
 ## 📈 GitHub Stats
 
-![Stats de GitHub](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=fgabreu&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Linguagens mais usadas](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=fgabreu&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Metrics](https://metrics.lecoq.io/fgabreu?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fgabreu&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 
 
 ---
@@ -62,4 +59,4 @@
 
 ---
 
-*Open to Data Engineer and Data & AI roles — Remote / Hybrid / Brazil*
+*Open to Data Engineer and Data & AI roles — Remote / Hybrid*
