@@ -22,20 +22,39 @@
 
 ---
 
+## ⚡ Real-world impact
+
+- 🟢 **Power BI optimisation** — reduced report refresh time from minutes to seconds through query rewriting and data model restructuring
+- 🟢 **Databricks performance tuning** — applied partition strategy, caching and cluster sizing to cut table processing time and reduce compute costs
+- 🔵 **End-to-end pipelines** — designed and delivered Lakehouse solutions on Azure integrating ADF, Databricks and Delta Lake
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Stack | Description |
 |---|---|---|
-| [📊 Data Pipeline Azure — Banco Central](https://github.com/fgabreu/Data-Pipeline---proj-01----Azure) | Azure · Databricks | Big Data pipeline from Brazilian Central Bank API |
+| [💳 DBX Lakeflow PSP Payment System](https://github.com/fgabreu/dbx-lakeflow-psp-payment-system) | Databricks · Lakeflow | End-to-end payment data pipeline with Databricks Lakeflow |
+| [🤖 SC Agent Governance](https://github.com/fgabreu/sc-agent-governance) | Python · AI Agents | Governance framework for AI agents |
+| [🔄 Data Pipeline Azure — Banco Central](https://github.com/fgabreu/Data-Pipeline---proj-01----Azure) | Azure · Databricks | Big Data pipeline from Brazilian Central Bank API |
 | [🧠 AI Engineer Course](https://github.com/fgabreu/ai-engineer-course) | Python · LLMs | Hands-on AI engineering exercises |
-| [📁 Dados RH — Análise com Python](https://github.com/fgabreu/Projeto-03-DSA----Dados-RH) | Python · Jupyter | HR data analysis and visualisation |
+| [📊 Dados RH — Análise com Python](https://github.com/fgabreu/Projeto-03-DSA----Dados-RH) | Python · Jupyter | HR data analysis and visualisation |
 
 ---
 
 ## 📈 GitHub Stats
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fgabreu&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fgabreu&layout=compact&theme=dark&hide_border=true)
+
+
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fgabreu&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fgabreu&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fgabreu&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+
 
 ---
 
